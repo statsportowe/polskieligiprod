@@ -43,8 +43,8 @@
 		<version.jboss.logging>3.1.4.GA-redhat-2</version.jboss.logging>
 
 		<!-- maven-compiler-plugin -->
-		<maven.compiler.target>1.6</maven.compiler.target>
-		<maven.compiler.source>1.6</maven.compiler.source>
+		<maven.compiler.target>1.7</maven.compiler.target>
+		<maven.compiler.source>1.7</maven.compiler.source>
 
 		<!-- other plugin versions -->
 		<version.war.plugin>2.1.1</version.war.plugin>
